@@ -605,6 +605,9 @@ footer .social-section ul {
 footer .social-section ul li {
   font-size: 2rem;
 }
+footer .social-section ul li a {
+  color: #fafafa;
+}
 footer .copyright {
   bottom: 1rem;
   z-index: 3;
